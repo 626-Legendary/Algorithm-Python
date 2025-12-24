@@ -1,0 +1,24 @@
+# ==============================
+# Default ignored files
+# ==============================
+
+# IntelliJ / JetBrains IDEs
+/.idea
+*.iml
+
+# Project-specific folders
+/shelf/
+/workspace.xml
+
+# OS generated files (optional, common practice)
+.DS_Store
+Thumbs.db
+
+# Python bytecode (if项目中有Python)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if applicable)
+venv/
+env/
